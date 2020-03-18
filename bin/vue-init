@@ -108,7 +108,7 @@ function run () {
       generate(name, templatePath, to, err => {
         if (err) logger.fatal(err)
         console.log()
-        logger.success('Generated "%s".', name)
+        logger.success('Generated')
       })
     } else {
       logger.fatal('Local template "%s" not found.', template)
