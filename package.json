@@ -1,6 +1,6 @@
 {
   "name": "@luoyefe/vue-cli",
-  "version": "2.9.9",
+  "version": "2.9.10",
   "description": "Forked from vue.",
   "preferGlobal": true,
   "bin": {
